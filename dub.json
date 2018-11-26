@@ -1,0 +1,12 @@
+{
+	"description": "A minimal GtkD application template.",
+	"dependencies": {
+		"gtk-d": "~>3.8.4"
+	},
+	"authors": [
+		"ZHANITEST"
+	],
+	"copyright": "Copyleft © 2018, ZHANITEST",
+	"license": "Lgpl-v2",
+	"name": "gtkd-template"
+}
